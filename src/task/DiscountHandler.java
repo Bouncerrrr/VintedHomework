@@ -28,7 +28,7 @@ public class DiscountHandler {
         try {
             while ((line = input.readLine()) != null) {
                 content.append(line).append("\n");
-                processLine(line);  // Process each line as it is read
+                processLine(line);
             }
         } catch (IOException e) {
             e.printStackTrace();
