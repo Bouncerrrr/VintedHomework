@@ -52,3 +52,5 @@ If the parameters are not correct, the program will output the original text fro
   2015-02-01 S MR 1.50 0.50
   2015-02-29 CUSPS ignored
    ```
+## Testing
+Test were written for this program using JUnit.
